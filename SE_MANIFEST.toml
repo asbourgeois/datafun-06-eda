@@ -15,12 +15,12 @@ purpose = "To make explicit the boundaries, responsibilities, and expectations o
 keywords_note = "Keywords live only in CITATION.cff (canonical)."
 
 [repo]
-name   = "datafun-04-notebooks"
-org    = "denisecase"
+name   = "datafun-06-eda"
+org    = "asbourgeois"
 kind   = "software"
 status = "academic"
 since  = "2026"
-summary = "Data Analytics Fundamentals Project 04: Exploratory data analysis using Jupyter notebooks, pandas, and visualizations."
+summary = "Data Analytics Fundamentals Project 06: Exploratory data analysis using Jupyter notebooks, pandas, and visualizations."
 
 [layer]
 space = "Data Analytics"
