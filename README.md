@@ -7,7 +7,13 @@ Count of records.
 2951
 List or table of the columns and description of what each column holds
 
-| Coulmn | Description |
-| :--- | :---: | ---: |
-| Left-aligned | Center-aligned | Right-aligned |
-| Cell A | Cell B | Cell C |
+| Column Name | Description |
+|-------------|-------------|
+| DBN | NYC school identifier (District–Borough–Number). |
+| School Name | Full name of the school. |
+| Grade | Student Grade level. |
+| Year | Year data is from (2013-2015). |
+| Number Tested | Number of Students tested. |
+| Level 3 or Higher (#) | Exact number of students that scored level 3 or higher |
+| Level 3 or Higher (%) | Percentage of students that scored level 3 or higher |
+
